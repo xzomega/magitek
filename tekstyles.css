@@ -67,10 +67,21 @@ a:hover {
   color: #5aeb00;
 }
 
+/* Author Bio Margin */
+.biotext {
+  /* Plan to space text away from image and social media links */
+}
+
 /* --ID's-- */
 
 #author {
   border: solid;
+  border-color: #5aeb00;
+  height: 250px;
+  width: 250px;
+  float: right;
+  padding: 10px;
+  margin-left: : 10px;
 }
 
 /* --OTHER-- */
