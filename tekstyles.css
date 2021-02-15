@@ -1,0 +1,76 @@
+/* --UNIVERSAL STYLES-- */
+
+/* Navigation Bar */
+nav ul {
+  background-color: black;
+  border-style: solid;
+  border-color: #5aeb00;
+  border-width: 4px;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+}
+
+nav ul li a:hover {
+  color: blue;
+}
+
+/* Body */
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Nova Flat', cursive;
+}
+
+a:hover {
+  color: blue;
+}
+
+/* --CLASSES-- */
+
+/* NavBar Links */
+.navbar a {
+  color: #5aeb00;
+  text-decoration: none;
+}
+/* Hidden Link in Header */
+.hidden {
+  color: #5aeb00;
+  text-decoration: none;
+}
+
+/* Title Header */
+.gbhead {
+  font-family: 'Press Start 2P', cursive;
+  text: solid;
+}
+/* Hidden Link in Title */
+.gbhead a {
+  color: white;
+  text-decoration: none;
+}
+
+.gbhead a:visited {
+  text-color: white;
+}
+/* Subheader Green */
+.subhead {
+  color: #5aeb00;
+}
+
+/* --ID's-- */
+
+#author {
+  border: solid;
+}
+
+/* --OTHER-- */
